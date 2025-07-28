@@ -28,7 +28,7 @@
 
 
 .hero-section {
-  background: url("images/home-bg.jpg") no-repeat center center/cover;
+  background: url("images/home-bg.png") no-repeat center center/cover;
   padding: 70px 20px;
   color: white;
   font-family: "Plus Jakarta Sans", Arial, sans-serif;
@@ -270,7 +270,7 @@ h3 {
 /* ///////////////////////////////// */
 
 .booking-section {
-  background: url("images/home-bg (1).jpg") no-repeat center center/cover;
+  background: url("images/Png.png") no-repeat center center/cover;
   color: white;
   padding: 40px 20px;
   min-height: 300px;
@@ -456,8 +456,12 @@ h3 {
   }
 
   .booking-btn {
-    width: 100%;
+    /* width: 100%; */
     padding: 14px;
+    
   }
-  
+
+.booking-container {
+  display: block;
+}
 }
